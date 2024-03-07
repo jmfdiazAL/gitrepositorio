@@ -1,2 +1,1 @@
-Creo archivo en mezcla
-Otro texto
+Creo en rama principal
