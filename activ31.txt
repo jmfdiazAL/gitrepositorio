@@ -1,2 +1,4 @@
 Creo el archivo activ31
 Otra línea en activ31
+Añado una línea en activ31
+Añado otra línea en activ31
