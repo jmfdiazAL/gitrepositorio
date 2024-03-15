@@ -1,2 +1,4 @@
 Creo el archivo activ32
 Otra línea en activ32
+Añado línea 3 en activ32
+Añado línea 4 en activ32
