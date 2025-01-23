@@ -1,1 +1,2 @@
 Fichero repo2
+Nuevo dato repo2
